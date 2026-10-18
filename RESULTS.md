@@ -53,13 +53,3 @@ Do not claim 100 MHz timing closure unless a later report confirms it. Do not in
 | Thermal margin | 59.7 °C |
 
 **Caveat:** Zero reported dynamic power is not proof of zero switching power. It may reflect activity assumptions or the power-estimation setup. Confirm the original power report and switching-activity configuration before citing these values as final results.
-
-## Evidence to commit
-Add the original, unedited Vivado-generated files:
-- Utilization report
-- Timing summary
-- Full critical-path report
-- Power report
-- Synthesis/implementation logs, if useful
-
-This Markdown file is a readable summary; original reports are the primary evidence.
