@@ -1,0 +1,25 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.dmp
+*.pb
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+.Xil/
+webtalk*.jou
+webtalk*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
