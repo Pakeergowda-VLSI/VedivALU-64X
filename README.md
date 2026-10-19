@@ -136,9 +136,8 @@ VedicALU-64X/
 ### Prerequisites
 
 - [Icarus Verilog](https://steveicarus.github.io/iverilog/) (`iverilog`, `vvp`)
-- Python 3.8+
-- (Optional) [GTKWave](https://gtkwave.sourceforge.net/) for waveforms
-- (Optional) Xilinx Vivado for synthesis and timing analysis
+- [GTKWave](https://gtkwave.sourceforge.net/) for waveforms
+- Xilinx Vivado for synthesis and timing analysis
 
 ```bash
 # Ubuntu / WSL
